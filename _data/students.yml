@@ -1,0 +1,31 @@
+- period: Current
+  categories:
+  - title: PhD Students
+    members:
+      - name: Gabriel Siqueira Rodrigues
+      - name: Sigfredo Farias Rocha
+      - name: Renato Edésio
+      - name: Arthur José Farias Rodrigues
+  - title: Master Students
+    members: 
+      - name: João Paulo Costa de Araújo
+      - name: Danilo José Bispo Galvão
+      - name: Gabriel Frutuoso Araújo Pereira (Moisés)
+- period: Past
+  categories:
+  - title: PhD Students
+    members:
+      - name: Felipe Pontes Guimarães (co-supervision with Daniel Batista)
+      - name: André Luiz Peron de Martins Lanna (co-supervision with Vander Alves)
+  - title: Master Students
+    members: 
+      - name: Ricardo Diniz Caldas
+      - name: Eric Bernd Gil
+      - name: Marc Carwehl
+      - name: Rafael Fazzolino
+      - name: Gabriela Felix Solano
+      - name: Caio Batista de Melo
+      - name: Thiago Peixoto dos Reis
+      - name: Fabio Leal Barros
+      - name: Danilo Filgueira Mendonça
+      - name: Alexandre Vaz Roriz
