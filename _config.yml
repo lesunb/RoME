@@ -20,9 +20,10 @@
 
 title: RoME
 baseurl: "/RoME" # the subpath of your site, e.g. /blog
-url: "https://cpeluti.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lesunb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+github: [metadata]
 address: "
 Dept. de Ciência da Computação</br>
 Campus Darcy Ribeiro</br>
