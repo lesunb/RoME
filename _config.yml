@@ -20,6 +20,7 @@
 
 title: RoME
 repository: lesunb/RoME
+participate: "https://linkparaosigaa.com.br"
 baseurl: "/RoME" # the subpath of your site, e.g. /blog
 url: "https://lesunb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
