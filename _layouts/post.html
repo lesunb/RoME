@@ -8,6 +8,34 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/ico/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/ico/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/ico/favicon-16x16.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/ico/favicon.ico" />
+  
+
+  <!-- HTML Meta Tags -->
+  <title> RoME: {{post.title}}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://lesunb.github.io/RoME/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="RoME: {{post.title}}">
+  <meta property="og:description" content="{{site.description}}.">
+  <meta property="og:image" content="{{site.image}}">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="lesunb.github.io">
+  <meta property="twitter:url" content="https://lesunb.github.io/RoME/">
+  <meta name="twitter:title" content="RoME: {{site.title}}">
+  <meta name="twitter:description" content="{{site.description}}.">
+  <meta name="twitter:image" content="{{site.image}}">
+
+  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+        
   <script>
     tailwind.config = {
       theme: {
