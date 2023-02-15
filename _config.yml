@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RoME
+title: RoME - First International Summer School On Robotic Mission Engineering
 repository: lesunb/RoME
 participate: "https://sigaa.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/7357"
 baseurl: "/RoME" # the subpath of your site, e.g. /blog
