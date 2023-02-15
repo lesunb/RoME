@@ -38,7 +38,7 @@ Steering Committee:
 
 # Sponsors
 
-![Fap/DF](src#img-sponsors=assets/fapdf.png "Fap/DF")
-![Finatec](src#img-sponsors=assets/finatec.png "Finatec")
+![Fap/DF]({{ site.baseurl }}/assets/fapdf.png "Fap/DF"){: .img-sponsors}
+![Finatec]({{ site.baseurl }}/assets/finatec.png "Finatec"){: .img-sponsors}
 
 
