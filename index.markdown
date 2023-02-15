@@ -28,5 +28,6 @@ Radu Calinescu (University of York - Inglaterra) - remoto
 
 
 # Apoio
-Logo FADP
-Logo Finatec
+![Logo FAPDF](assets/fapdf.png "FAPDF")
+![Logo Finatec](assets/finatec.png "Finatec")
+
