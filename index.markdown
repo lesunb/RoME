@@ -19,8 +19,8 @@ RoME will take place at the University of Brasília, from March 1 to March 3, 20
 For more information contact:  robotic.missions@gmail.com
 
 # Keynotes
-- [Patrizio Pelliccione (GSSI - Italia)]({{ site.baseurl }}/2023/02/10/keynotes.html#patrizio-pelliccione) - in person
-- [Radu Calinescu (University of York - Inglaterra]({{ site.baseurl }}/2023/02/10/keynotes.html#radu-callinescu) - remote
+- [Patrizio Pelliccione (GSSI - Italia)]({{ site.baseurl }}/2023/02/10/keynotes.html#pp) - in person
+- [Radu Calinescu (University of York - Inglaterra]({{ site.baseurl }}/2023/02/10/keynotes.html#rc) - remote
 
 
 [more about keynote speakers]({{ site.baseurl }}/2023/02/10/keynotes.html)
