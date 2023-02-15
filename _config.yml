@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: RoME - Summer School On Robotic Mission Engineering
-destription: The International Summer School on Robotic Mission Engineering
+description: The International Summer School on Robotic Mission Engineering will happen from March 1, March 3 2023 in the University of Brasília.
 repository: lesunb/RoME
 image: https://lesunb.github.io/RoME/assets/ico/android-chrome-512x512.png
 participate: "https://lesunb.github.io/RoME/2023/02/15/registration.html"
