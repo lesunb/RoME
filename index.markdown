@@ -28,6 +28,6 @@ Radu Calinescu (University of York - Inglaterra) - remoto
 
 
 # Apoio
-![Logo FAPDF](assets/fapdf.png| width=200) "FAPDF")
-![Logo Finatec](assets/finatec.png | width=200) "Finatec")
+<img alt="Fap/DF" src="assets/fapdf.png" width=30% height=30%>
+<img alt="Finatec" src="assets/finatec.png" width=30% height=30%>
 
