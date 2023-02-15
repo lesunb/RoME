@@ -14,3 +14,9 @@ footer {
 .content a {
     color: var(--bs-orange);
 }
+
+.content ol {
+    list-style:decimal;
+    margin-left: 25px;
+    padding: 5px;
+}
