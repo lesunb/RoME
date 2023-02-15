@@ -7,15 +7,16 @@ id: short-bio
 title: Short Bio
 ---
 # Description
-Estima-se que o mercado de robótica atinja o valor de US\$ 102,5 bilhões até 2025. Esse mercado costuma operar em ambientes sem restrições, muitas vezes habitados por humanos, exigindo alto grau de robustez e autonomia. No entanto, as soluções ainda não estão prontas para serem utilizadas na vida cotidiana. Há necessidade de soluções prontas para lidar com todos os desafios, principalmente relacionados à engenharia de missões robóticas móveis. Deficiências nos sistemas de controle de robôs devido à sua inerente complexidade podem ser bastante custosas se encontradas após o sistema ser colocado em operação. 
 
-Esta escola de verão tem como objetivo fomentar o projeto financiado pela FAPDF, coordenado pela equipe  Profa. Genaína Nunes Rodrigues, Departamento de Ciência da Computação da Universidade de Brasília, juntamente com os Profs. Patrizio Pelliccione (GSSI, Itália), Prof. Radu Calinescu (York, Reino Unido), e Profa. Carla Koike (UnB) e se propõe a fomentar a engenharia de missões de aplicações robóticas por meio de abordagens sistemáticas de Engenharia de Software. 
+It is estimated that the robotics market will reach a value of US\$ 102.5 billion by 2025. This market usually operates in unrestricted environments, often inhabited by humans, requiring a high degree of robustness and autonomy. However, the solutions are not yet ready to be used in everyday life. 
 
-Em linhas gerais, os resultados esperados desta escola de verão são os seguintes: (i) fomentar a divulgação da pesquisa científica e a sua aplicação prática quanto à engenharia de missões robóticas autônomas por meio de abordagens sistemáticas de Engenharia de Software; (ii) promover a inovação tecnológica compartilhando com a comunidade de professores e alunos universitários tanto dentro da UnB como de outras instituições de ensino em Computação e afins no Distrito Federal, (iii) atrair alunos para contribuir com o desenvolvimento da pesquisa proposta e (iv)  fomentar a internacionalização da pesquisa de excelência por meio da colaboração científica entre nosso grupo de pesquisa e centros acadêmicos internacionais de excelência.
+This summer school aims to promote the project funded by FAPDF, coordinated by Profa. Genaína Nunes Rodrigues, Department of Computer Science at the University of Brasília, together with Profs. Patrizio Pelliccione (GSSI, Italy), Prof. Radu Calinescu (York, UK), and Prof. Carla Koike (UnB) and proposes to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering.
 
-# Público-alvo
-- Comunidade da UnB (25 vagas)
-- Comunidade externa (25 vagas)
+In general terms, the expected results of this summer school are the following: (i) to promote the dissemination of scientific research and its practical application regarding the engineering of autonomous robotic missions through systematic approaches to Software Engineering; (ii) promote technological innovation by sharing with the community of professors and university students both within UnB and other teaching institutions in Computing and similar in the Federal District, (iii) attract students to contribute to the development of the proposed research and (iv) ) foster the internationalization of research excellence through scientific collaboration between our research group and international academic centers of excellence.
+
+# Target Audience
+- UnB comunity (25 seats)
+- General public (25 seats)
 
 
 # Location
@@ -23,11 +24,11 @@ Em linhas gerais, os resultados esperados desta escola de verão são os seguint
 
 
 # Keynotes
-Patrizio Pelliccione (GSSI - Italia) - presencial
-Radu Calinescu (University of York - Inglaterra) - remoto
+- Patrizio Pelliccione (GSSI - Italia) - presencial
+- Radu Calinescu (University of York - Inglaterra) - remote
 
 
 # Apoio
-<img alt="Fap/DF" src="assets/fapdf.png" width=30% height=30%>
-<img alt="Finatec" src="assets/finatec.png" width=30% height=30%>
+<img style="float: right;" alt="Fap/DF" src="assets/fapdf.png" width=30% height=30%>
+<img style="float: right;" alt="Finatec" src="assets/finatec.png" width=30% height=30%>
 
