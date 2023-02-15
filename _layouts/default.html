@@ -121,13 +121,6 @@
     </nav>
     <div id="wrapper" class="snap-y snap-mandatory h-screen w-screen overflow-x-hidden scroll-smooth">
       <div class="snap-start relative contain overflow-hidden w-full sm:h-screen md:h-1/3">
-        <div id="navigation">
-          <div class="z-50 grid grid-flow-col place-content-center" >
-            {% for post in site.posts %}
-              <a class="hover:bg-neutral-400 hover:bg-opacity-60 text-white rounded-md px-4 py-1 mb-2" href="{{ site.baseurl }}/{{post.url}}">{{post.title}}</a>
-            {% endfor %}
-          </div>
-        </div>
         <div class="sm:z-10 md:z-10 text grid place-content-center grid-cols-1 gap-2">
           <span class="lg:mt-10 md:mt-16 roboto text-5xl leading-tight text-white"> First Summer<br/> School<br/> on<br/> Robotic<br/> Mission<br/> Engineering</span>
           <div class="grid place-content-center gap-1">
@@ -159,7 +152,13 @@
         </div>
         <img id="cover" class="z-0 h-full w-full object-cover" src="{{ site.baseurl }}/assets/cic_unb.jpg"/>
       </div>
-    
+      <div id="navigation">
+        <div class="z-50 grid grid-flow-col place-content-center" >
+          {% for post in site.posts %}
+            <a class="hover:bg-neutral-400 hover:bg-opacity-60 text-white rounded-md px-4 py-1 mb-2" href="{{ site.baseurl }}/{{post.url}}">{{post.title}}</a>
+          {% endfor %}
+        </div>
+      </div>
       <div class="content snap-start py-5 px-10 md:px-24 md:py-10 lg:px-40">
         {{content}}
       </div>
