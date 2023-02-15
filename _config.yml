@@ -25,6 +25,7 @@ image: https://lesunb.github.io/RoME/assets/ico/android-chrome-512x512.png
 participate: "https://lesunb.github.io/RoME/2023/02/15/registration.html"
 baseurl: "/RoME" # the subpath of your site, e.g. /blog
 url: "https://lesunb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+email: robotic.missions@gmail.com
 twitter_username: jekyllrb
 github_username:  jekyll
 github: [metadata]
