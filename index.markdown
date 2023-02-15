@@ -21,6 +21,7 @@ For more information contact:  robotic.missions@gmail.com
 # Keynotes
 - Patrizio Pelliccione (GSSI - Italia) - presencial
 - Radu Calinescu (University of York - Inglaterra) - remote
+\
 [more about keynote speakers](/2023/02/10/keynotes.html)
 
 # Target Audience
