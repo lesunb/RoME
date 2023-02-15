@@ -116,8 +116,6 @@
   <div id="navigation">
     <div class="z-50 grid gap-2 grid-flow-col place-content-center" >
       <a class="bg-neutral-400 text-black rounded-md px-4 py-1 mb-2" href="{{ site.baseurl }}"> Home </a>
-    </div>
-    <div class="z-50 grid gap-2 grid-flow-col place-content-center" >
       {% for post in site.posts %}
       {% if  post.url == page.url%}
         <a class="bg-neutral-400 text-black rounded-md px-4 py-1 mb-2" href="{{ post.url | relative_url }}">{{post.title}}</a>
