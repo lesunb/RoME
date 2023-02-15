@@ -3,4 +3,4 @@ layout: post
 title: "schedules"
 ---
 # Schedule
-![Imagem]({{ site.baseurl }}/assets/schedule.png)
+![Schedule]({{ site.baseurl }}/assets/schedule.png)
