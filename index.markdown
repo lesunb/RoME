@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-id: short-bio
-title: Short Bio
+id: home
+title: RoME - First International Summer School On Robotic Mission Engineering
 ---
 # Description
 
