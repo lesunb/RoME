@@ -12,6 +12,7 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
+img[src$='#img-sponsors'] { float:left; max-width: 300%; }
 
 /** Figures */
 figure > img { display: block; }

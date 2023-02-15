@@ -36,7 +36,9 @@ Steering Committee:
 - Radu Calinescu (University of York - Inglaterra) - remote
 
 
-# Apoio
-<img style="float: right;" alt="Fap/DF" src="assets/fapdf.png" width=30% height=30%>
-<img style="float: right;" alt="Finatec" src="assets/finatec.png" width=30% height=30%>
+# Sponsors
+
+![Fap/DF](src#img-sponsors=assets/fapdf.png "Fap/DF")
+![Finatec](src#img-sponsors=assets/finatec.png "Finatec")
+
 
