@@ -4,7 +4,7 @@
 
 layout: default
 id: home
-title: RoME - First International Summer School On Robotic Mission Engineering
+title: RoME - Summer School On Robotic Mission Engineering
 ---
 # Description
 

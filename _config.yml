@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RoME - First International Summer School On Robotic Mission Engineering
+title: RoME - Summer School On Robotic Mission Engineering
+destription: The International Summer School on Robotic Mission Engineering
 repository: lesunb/RoME
+image: https://lesunb.github.io/RoME/assets/ico/android-chrome-512x512.png
 participate: "https://lesunb.github.io/RoME/2023/02/15/registration.html"
 baseurl: "/RoME" # the subpath of your site, e.g. /blog
 url: "https://lesunb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
