@@ -20,7 +20,7 @@ For more information contact:  robotic.missions@gmail.com
 
 # Keynotes
 - [Patrizio Pelliccione]({{ site.baseurl }}/2023/02/10/keynotes.html#patrizio-pelliccione) (GSSI - Italy) - in person
-- [Radu Calinescu]({{ site.baseurl }}/2023/02/10/keynotes.html#radu-calinescu) (University of York - United Kingdom - remote
+- [Radu Calinescu]({{ site.baseurl }}/2023/02/10/keynotes.html#radu-calinescu) (University of York - United Kingdom) - remote
 
 more about [keynote speakers]({{ site.baseurl }}/2023/02/10/keynotes.html)
 
