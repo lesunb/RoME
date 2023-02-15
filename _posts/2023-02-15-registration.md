@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "schedules"
+title: "Registration"
 ---
 
 # Registration
