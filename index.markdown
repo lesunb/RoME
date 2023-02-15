@@ -8,11 +8,13 @@ title: Short Bio
 ---
 # Description
 
-It is estimated that the robotics market will reach a value of US\$ 102.5 billion by 2025. This market usually operates in unrestricted environments, often inhabited by humans, requiring a high degree of robustness and autonomy. However, the solutions are not yet ready to be used in everyday life. 
-
-This summer school aims to promote the project funded by FAPDF, coordinated by Profa. Genaína Nunes Rodrigues, Department of Computer Science at the University of Brasília, together with Profs. Patrizio Pelliccione (GSSI, Italy), Prof. Radu Calinescu (York, UK), and Prof. Carla Koike (UnB) and proposes to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering.
+The International Summer School on Robotic Mission Engineering aims to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering. It is funded by FAPDF, through a project coordinated by Profa. Genaína Nunes Rodrigues, Department of Computer Science at the University of Brasília, together with Profs. Patrizio Pelliccione (GSSI, Italy), Prof. Radu Calinescu (York, UK), and Prof. Carla Koike (UnB).
 
 In general terms, the expected results of this summer school are the following: (i) to promote the dissemination of scientific research and its practical application regarding the engineering of autonomous robotic missions through systematic approaches to Software Engineering; (ii) promote technological innovation by sharing with the community of professors and university students both within UnB and other teaching institutions in Computing and similar in the Federal District, (iii) attract students to contribute to the development of the proposed research and (iv) ) foster the internationalization of research excellence through scientific collaboration between our research group and international academic centers of excellence.
+
+In this first edition, we plan for two and a half days event. To apply, the participant must fill a form available here, until July, 23. Participants are not required to give a talk. RoME will take place at the University of Brasília, from March 29 until March 30, 2023.
+
+For more information contact:  robotic.missions@gmail.com
 
 # Target Audience
 - UnB comunity (25 seats)
