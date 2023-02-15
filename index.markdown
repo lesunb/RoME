@@ -35,13 +35,14 @@ General chair: **Genaína Rodrigues** e **Carla Koike**
 Steering Committee: 
 **Gabriel Rodrigues** (working session), **Ricardo Caldas** (working session), **Gabriel Araújo** (working session), **Everaldo** (site), **Caio Peluti** (site), **Carlos Eduardo Taborda Lottermann** (working session) , **Vicente Romeiro de Moraes** (working session), **Marco Vieira** (working session)	
 
+# Sponsors
+
+![Fap/DF]({{ site.baseurl }}/assets/fapdf.png "Fap/DF"){: .img-sponsors}
+
 # Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1614.4507420044106!2d-47.87019225640228!3d-15.759991497010041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3bb88f71361f%3A0x3933d293e644ad55!2zUHLDqWRpbyBkZSBDacOqbmNpYSBkYSBDb21wdXRhw6fDo28gZSBFc3RhdMOtc3RpY2EgLSBDSUMvRVNU!5e0!3m2!1spt-BR!2sbr!4v1676081180278!5m2!1spt-BR!2sbr" width="600" height="450" class="w-full" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-# Sponsors
-
-![Fap/DF]({{ site.baseurl }}/assets/fapdf.png "Fap/DF"){: .img-sponsors}
 
 
 
