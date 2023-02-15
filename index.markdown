@@ -10,7 +10,7 @@ title: RoME - Summer School On Robotic Mission Engineering
 
 The International Summer School on Robotic Mission Engineering aims to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering. It is funded by FAPDF, through a project coordinated by Profa. Genaína Nunes Rodrigues, Department of Computer Science at the University of Brasília, together with Profs. Patrizio Pelliccione (GSSI, Italy), Prof. Radu Calinescu (York, UK), and Prof. Carla Koike (UnB).
 
-In this first edition, we plan for two and a half days event. To apply, the participant must fill a form available [here](https://sigaa.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/7357), until Feb, 29. Participants are not required to give a talk. 
+In this first edition, we plan for two and a half days event. To apply, the participant must fill a form available [here]( {{site.participate }}), until Feb, 29. Participants are not required to give a talk. 
 
 In general terms, the expected results of this summer school are the following: (i) to promote the dissemination of scientific research and its practical application regarding the engineering of autonomous robotic missions through systematic approaches to Software Engineering; (ii) promote technological innovation by sharing with the community of professors and university students both within UnB and other teaching institutions in Computing and similar in the Federal District, (iii) attract students to contribute to the development of the proposed research and (iv) ) foster the internationalization of research excellence through scientific collaboration between our research group and international academic centers of excellence.
 
@@ -19,11 +19,10 @@ RoME will take place at the University of Brasília, from March 1 to March 3, 20
 For more information contact:  robotic.missions@gmail.com
 
 # Keynotes
-- [Patrizio Pelliccione (GSSI - Italia)]({{ site.baseurl }}/2023/02/10/keynotes.html#patrizio-pelliccione) - in person
-- [Radu Calinescu (University of York - Inglaterra]({{ site.baseurl }}/2023/02/10/keynotes.html#radu-calinescu) - remote
+- [Patrizio Pelliccione]({{ site.baseurl }}/2023/02/10/keynotes.html#patrizio-pelliccione) (GSSI - Italy) - in person
+- [Radu Calinescu]({{ site.baseurl }}/2023/02/10/keynotes.html#radu-calinescu) (University of York - United Kingdom - remote
 
-
-[more about keynote speakers]({{ site.baseurl }}/2023/02/10/keynotes.html)
+more about [keynote speakers]({{ site.baseurl }}/2023/02/10/keynotes.html)
 
 # Target Audience
 - UnB comunity (25 seats)
