@@ -30,10 +30,19 @@ more about [keynote speakers]({{ site.baseurl }}/2023/02/10/keynotes.html)
 
 # Organizers
 
-General chair: **Genaína Rodrigues** e **Carla Koike**
+## General chair: 
+- **Genaína Rodrigues**
+- **Carla Koike**
 
-Steering Committee: 
-**Gabriel Rodrigues** (working session), **Ricardo Caldas** (working session), **Gabriel Araújo** (working session), **Everaldo** (site), **Caio Peluti** (site), **Carlos Eduardo Taborda Lottermann** (working session) , **Vicente Romeiro de Moraes** (working session), **Marco Vieira** (working session)	
+## Steering Committee: 
+- **Gabriel Rodrigues** (working session)
+- **Ricardo Caldas** (working session)
+- **Gabriel Araújo** (working session)
+- **Everaldo** (site)
+- **Caio Peluti** (site)
+- **Carlos Eduardo Taborda Lottermann** (working session)
+- **Vicente Romeiro de Moraes** (working session)
+- **Marco Vieira** (working session)	
 
 # Sponsors
 

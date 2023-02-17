@@ -33,6 +33,9 @@
     #navigation{
       @apply z-40 absolute mt-14 text-center w-full;
     }
+    li{
+      @apply text-lg list-disc ml-6
+    }
     #cover{
       transform: scale(1.3);
 
@@ -65,7 +68,6 @@
     }
     a{
         font-family: 'roboto';
-        font-size: 16px;
     }
     br{
       @apply md:hidden
@@ -120,8 +122,8 @@
         </div>
       </div>
     </nav>
-    <div id="wrapper" class="snap-y snap-mandatory h-screen w-screen overflow-x-hidden scroll-smooth">
-      <div class="snap-start relative contain overflow-hidden w-full sm:h-screen md:h-1/2">
+    <div id="wrapper" class="h-screen w-screen overflow-x-hidden scroll-smooth">
+      <div class="relative contain overflow-hidden w-full sm:h-screen md:h-1/2">
         <div id="navigation">
           <div class="z-50 grid grid-flow-col place-content-center" >
             {% for post in site.posts %}
@@ -131,7 +133,7 @@
         </div>
         <div class="sm:z-10 md:z-10 text grid place-content-center grid-cols-1 gap-2">
           <span class="lg:mt-10 md:mt-16 roboto text-5xl leading-tight text-white"> First Summer<br/> School<br/> on <br style="display:block"/> Robotic<br/> Mission<br/> Engineering</span>
-          <div class="grid place-content-center gap-1">
+          <div class="grid place-content-center gap-2">
               <span>
                 <h3 class="text-white flex items-center justify-center gap-x-2">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 inline">
@@ -140,7 +142,6 @@
                   <a href="#location"> Department of Computer Science, UnB </a>
                 </h3>
               </span>
-              <br />
               <span>
                 <h3 class="text-white flex items-center justify-center gap-x-2">
                   <span class="text-start">
@@ -161,18 +162,24 @@
         <img id="cover" class="z-0 h-full w-full object-cover" src="{{ site.baseurl }}/assets/cic_unb.jpg"/>
       </div>
     
-      <div class="content snap-start py-5 px-10 md:px-24 md:py-10 lg:px-40">
+      <div class="content py-5 px-10 md:px-24 md:py-10 lg:px-40">
         {{content}}
       </div>
-      <br />
-      <br />
-      <footer>
-        Contact: <a href="mailto:{{site.email}}">{{site.email}}</a>
-        <br>
-        © Summer School Organizers
-        &nbsp;|&nbsp; Design by <a href="https://github.com/lesunb/RoME">lesunb</a>
+      <footer class="py-10">
+        <div class="flex justify-around content-center">
+          <div class="w-12 flex flex-col content-center justify-around"><div class="h-fit w-fit"><img id="logo" src="{{ site.baseurl }}/assets/unb_logo.png"/></div></div>
+          <div class="w-fit flex flex-col">
+            <span>
+              Contact: <a href="mailto:{{site.email}}">{{site.email}}</a>
+            </span>
+            <span>
+              © Summer School Organizers
+              &nbsp;|&nbsp; Design by <a href="https://github.com/lesunb/RoME">lesunb</a>
+            </span>
+          </div>
+          <div></div>
+        </div>
       </footer>
-    </div>
   </div>
   <script>
     const basicClassHeader = "z-50 fixed px-6 pt-2 pb-1 grid w-screen grid-cols-2 justify-between items-center text-white" 
