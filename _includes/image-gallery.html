@@ -1,0 +1,26 @@
+<div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12">
+  <div
+  data-te-lightbox-init
+  class="flex flex-wrap -m-1 md:-m-2">
+      {% for file in site.static_files %}
+        {% if file.path contains include.folder %}
+          {% if file.extname == '.jpg' or 
+            file.extname == '.jpeg' or 
+            file.extname == '.JPG' or 
+            file.extname == '.JPEG' %}
+
+            {% assign filenameparts = file.path | split: "/" %}
+            {% assign filename = filenameparts | last | replace: file.extname,"" %}
+
+            <div class="flex h-full w-1/3 p-1 md:p-2">
+              <img
+                src="{{site.baseurl}}/{{file.path}}"
+                data-te-img="{{site.baseurl}}/{{file.path}}"
+                alt="{{file.name}}"
+                class="block h-full rounded-lg object-cover object-center w-full cursor-pointer data-[te-lightbox-disabled]:cursor-auto" />
+            </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+  </div>
+</div>
