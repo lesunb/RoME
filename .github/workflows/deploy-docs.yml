@@ -4,9 +4,8 @@ name: Vuepress Deploy
 on:
   push:
     branches:
+      # make sure this is the branch you are using
       - main
-    paths: 
-      - docs/**
 
 permissions:
   contents: write
