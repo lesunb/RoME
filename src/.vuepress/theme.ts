@@ -3,11 +3,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://lesunb.github.io",
 
   author: {
     name: "lesunb",
-    url: "https://lesunb.github.io/RoME",
+    url: "https://github.com/lesunb/RoME",
   },
 
   iconAssets: "fontawesome-with-brands",
