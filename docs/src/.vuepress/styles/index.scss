@@ -1,0 +1,138 @@
+// place your custom styles here
+
+.vp-hero-info {
+    display: block;
+    min-height: 100vh;
+    max-height: 100vh;
+    // text-align: center;
+    
+    // margin-top: 25vh;
+    // margin-bottom: 150px;
+
+    .vp-hero-image {
+        max-height: 150px;
+        margin: 0 auto;
+        margin-top: 25%;
+      }
+}
+
+.patrocinadores {
+    width: 90%; /* ajuste a largura da div como quiser */
+    margin: auto; /* centraliza a div */
+    display: flex; /* usa o layout flexível */
+    justify-content: space-between; /* distribui o espaço entre as imagens */
+    height: 80px;
+  }
+
+//tabela de programação
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: auto;
+    width: max-content;
+}
+
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    // padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg .tg-0x09 {
+    background-color: #c0c0c0;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tg .tg-baqh {
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-t4q3 {
+    color: #9b9b9b;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-tkab {
+    background-color: #5883ff;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-2dgu {
+    background-color: #5883ff;
+    color: #ffffff;
+    font-family: inherit;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-ltxa {
+    background-color: #ffccc9;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tg .tg-8xib {
+    background-color: #fffc9e;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-sh07 {
+    background-color: #cbcefb;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-4aw5 {
+    background-color: #96fffb;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tg .tg-j6lv {
+    background-color: #96fffb;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-ifcm {
+    background-color: #ffce93;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-y6fn {
+    background-color: #c0c0c0;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tg .tg-0lax {
+    text-align: left;
+    vertical-align: middle
+}
