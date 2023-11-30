@@ -1,11 +1,12 @@
 ---
 title: Keynote Speakers
 icon: microphone-alt
+image: /RoMELogo.png
 ---
 
 The event will feature the following international speakers:
 
-## <i class="fas fa-user"></i> Patrizio Pelliccione
+## <i class="fas fa-user" style="color:var(--theme-color)"></i> Patrizio Pelliccione
 
 ![](pp.jpg){width="200"}
 
@@ -14,18 +15,15 @@ The three main research areas in which he is working are (i) autonomous, self-ad
 
 Read more about Dr. Patrizio Pelliccione in [his web page](https://www.patriziopelliccione.com/)
 
-## <i class="fas fa-user"></i> Radu Calinescu
+## <i class="fas fa-user" style="color:var(--theme-color)"></i> Sebastian Uchitel
 
-![](rc.jpg){width="200"}
+![](sebastian.jpg){width="200"}
 
-Radu Calinescu is a Professor of Computer Science at the University of York, PI on the UKRI Trustworthy Autonomous Systems Node in Resilience, the Assuring Autonomy International Programme Safety of AI Theme Lead, and the lead of the Trustworthy Adaptive and Autonomous Systems and Processes (TASP) Research Team.
+Sebastian Uchitel holds a Readership at Imperial College London and is currently also ad-honorem professor at University of Buenos Aires and CONICET. He currently also on the board of the national argentine oil company, YPF. He received his undergraduate computer science degree from University of Buenos Aires and his Phd in Computing from Imperial College London. His research interests are in behavior modeling and analysis of requirements and design for complex software-intensive systems. Dr. Uchitel was associate editor of IEEE Transactions on Software Engineering and is currently associate editor of the Requirements Engineering Journal and the Science of Computer Programming Journal, he was program co-chair of the 21st IEEE/ACM International Conference on Automated Software Engineering and of the 32nd IEEE/ACM International Conference on Software Engineering (ICSE 2010).
 
-His main research interests are in formal modelling, analysis, verification and controller synthesis for autonomous and self-adaptive systems and processes; parametric and probabilistic model checking automated;
-and model-driven software engineering.
+Read more about Dr. Sebastian Uchitel in [his web page](https://www.imperial.ac.uk/people/s.uchitel)
 
-Read more about Dr. Radu Calinescu in [his web page](https://www-users.york.ac.uk/~rcc516/)
-
-## <i class="fas fa-calendar-check"></i> Keynotes Schedule
+## <i class="fas fa-calendar-check" style="color:var(--theme-color)"></i> Keynotes Schedule
 
 Check the [program](/program) for the keynotes schedule
 

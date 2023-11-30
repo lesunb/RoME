@@ -2,9 +2,9 @@
 home: true
 icon: home
 title: Home
-heroImage: /logo.svg
+heroImage: /RoMELogo.png
 bgImage: /assets/image/cic_unb2.jpg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageDark: /assets/image/cic_unb2_dark.jpg
 bgImageStyle:
   background-attachment: fixed
 heroText: RoME 2024
@@ -19,7 +19,7 @@ actions:
 
 <br>
 
-## <i class="fas fa-scroll"></i> Description
+## <i class="fas fa-scroll" style="color:var(--theme-color)"></i> Description
 
 The International Summer School on Robotic Mission Engineering aims to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering. It is funded by FAPDF, through a project coordinated by Profa. Genaína Nunes Rodrigues, Department of Computer Science at the University of Brasília, together with Profs. Patrizio Pelliccione (GSSI, Italy), Prof. Radu Calinescu (York, UK), and Prof. Carla Koike (UnB).
 
@@ -38,24 +38,28 @@ RoME will take place at the University of Brasília, from February 20th to Febru
 
 For more information contact [us](mailto:robotic.missions@gmail.com).
 
-## <i class="fas fa-microphone-alt"></i> Keynotes
+## <i class="fas fa-microphone-alt" style="color:var(--theme-color)"></i> Keynotes
 
 - Patrizio Pelliccione (GSSI - Italy) - in person
-- Radu Calinescu (University of York - United Kingdom) - remote
+- Sebastian Uchitel (Imperial College London - United Kingdom) - in person
 
-More about keynote speakers [here](/Keynotes).
+More about keynote speakers [here](/RoME/Keynotes).
 
-## <i class="fas fa-bullseye"></i> Target Audience
+## <i class="fas fa-bullseye" style="color:var(--theme-color)"></i> Target Audience
 
-- UnB comunity (25 seats)
-- General public (25 seats)
+- Graduate and advanced undergraduate students 
+  - Computer Science
+  - Engineering
+  - Mechatronics
+  - and alike
+- General public
 
 
-## <i class="fas fa-users"></i> Organizers
+## <i class="fas fa-users" style="color:var(--theme-color)"></i> Organizers
 
 ### General chair:
 - Genaína Rodrigues
-- Carla Koike
+- Paulo Henrique Mendes Maia
 
 ### Steering Committee:
 - Gabriel Rodrigues (working session)
@@ -68,7 +72,7 @@ More about keynote speakers [here](/Keynotes).
 - Marco Vieira (working session)
 
 
-## <i class="fa-solid fa-map-pin"></i> Location
+## <i class="fa-solid fa-map-pin" style="color:var(--theme-color)"></i> Location
 
 Department of Computer Science, Institute of Exact Sciences
 University Campus Darcy Ribeiro,
@@ -80,10 +84,19 @@ CIC/EST Building,
 
 
 
-## <i class="fas fa-hands-helping"></i> Sponsors
+## <i class="fa-solid fa-hand-holding-dollar" style="color:var(--theme-color)"></i> Sponsors
 
 <div class="patrocinadores">
-  <img src="/assets/image/fapdf.png"/>
-  <img src="/assets/image/sbc.jpeg"/>
-  <img src="/assets/image/acm.gif"/>
+
+  <img src="/RoME/assets/image/ie2.png"/>
+  <img src="/RoME/assets/image/acm.png"/>
+
+</div>
+
+## <i class="fas fa-hands-helping" style="color:var(--theme-color)"></i> Support
+
+<div class="patrocinadores">
+
+  <img src="/RoME/assets/image/sbc.png"/>
+
 </div>

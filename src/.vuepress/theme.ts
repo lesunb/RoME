@@ -12,7 +12,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/RoMELogo.png",
+
+  favicon: "/favicon.ico",
 
   // repo: "https://github.com/lesunb/RoME",
 
@@ -20,7 +22,6 @@ export default hopeTheme({
 
   // navbar
   navbar,
-
   // sidebar
   // sidebar,
   sidebar: false,
@@ -29,7 +30,7 @@ export default hopeTheme({
 
   copyright: false,
 
-  darkmode: "disable",
+  darkmode: "toggle",
 
   footer: "<img src='assets/image/unb_logo.png' width='40' style='margin-right: 10px;vertical-align: middle;' /> <a href=mailto:'robotic.missions@gmail.com' >Contact</a> | Summer School Organizers © |  Design by lesunb",
 
@@ -84,6 +85,7 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
+      // imgMark: true,
 
       // install katex before enabling it
       // katex: true,
