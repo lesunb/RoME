@@ -6,7 +6,7 @@ export default navbar([
   "Keynotes",
   "Program",
   "Registration",
-  "Organization",
+  "Steering",
   "Previous",
   // {
   //   text: "Guide",

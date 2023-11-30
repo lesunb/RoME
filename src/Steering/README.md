@@ -1,5 +1,5 @@
 ---
-title: Organization
+title: Steering
 icon: users
 ---
 
@@ -17,6 +17,3 @@ University of York, UK, ACM SIGSOFT Member
 
 ### <i class="fas fa-user" style="color:var(--theme-color)"></i> PATRIZIO PELLICCIONE
 Gran Sasso Institute, Italy, ACM SIGSOFT Member
-
-### <i class="fas fa-user" style="color:var(--theme-color)"></i> DANIEL PORTO
-University of Brasília, Brazil

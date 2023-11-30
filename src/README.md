@@ -21,12 +21,11 @@ actions:
 
 ## <i class="fas fa-scroll" style="color:var(--theme-color)"></i> Description
 
-The International Summer School on Robotic Mission Engineering aims to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering. It is funded by FAPDF, through a project coordinated by Profa. Genaína Nunes Rodrigues, Department of Computer Science at the University of Brasília, together with Profs. Patrizio Pelliccione (GSSI, Italy), Prof. Radu Calinescu (York, UK), and Prof. Carla Koike (UnB).
+The International Summer School on Robotic Mission Engineering (RoME) aims to promote the engineering of missions of robotic applications through systematic approaches of Software Engineering. This year, RoME is funded by ACM Sigsoft. In its second edition, we will have four days event full of presentations, working sessions, lots of discussions and opportunities to engage on very interesting research topics.  
+ 
+The expected outcomes of this summer school are to:
 
-In this first edition, we plan for four days event. To apply, the participant must fill a form available [here](/Registration), until Feb, 19. Participants are not required to give a talk.
-In general terms, the expected results of this summer school are the following:
-
-(i) to promote the dissemination of scientific research and its practical application regarding the engineering of autonomous robotic missions through systematic approaches to Software Engineering;
+(i) promote the dissemination of scientific research and its practical application regarding the engineering of autonomous robotic missions through systematic approaches to Software Engineering;
 
 (ii) promote technological innovation by sharing with the community of professors and university students both within UnB and other teaching institutions in Computing and similar in the Federal District,
 
@@ -34,9 +33,7 @@ In general terms, the expected results of this summer school are the following:
 
 (iv) foster the internationalization of research excellence through scientific collaboration between our research group and international academic centers of excellence.
 
-RoME will take place at the University of Brasília, from February 20th to February 23rd, 2024.
-
-For more information contact [us](mailto:robotic.missions@gmail.com).
+RoME will take place at the University of Brasília, from February 20th to February 23rd, 2024. For more information contact [us](mailto:robotic.missions@gmail.com).
 
 ## <i class="fas fa-microphone-alt" style="color:var(--theme-color)"></i> Keynotes
 
@@ -47,12 +44,11 @@ More about keynote speakers [here](/RoME/Keynotes).
 
 ## <i class="fas fa-bullseye" style="color:var(--theme-color)"></i> Target Audience
 
-- Graduate and advanced undergraduate students 
+- PhD, Master and (advanced) undergraduates students in:
   - Computer Science
   - Engineering
   - Mechatronics
   - and alike
-- General public
 
 
 ## <i class="fas fa-users" style="color:var(--theme-color)"></i> Organizers
@@ -61,15 +57,15 @@ More about keynote speakers [here](/RoME/Keynotes).
 - Genaína Rodrigues
 - Paulo Henrique Mendes Maia
 
-### Steering Committee:
-- Gabriel Rodrigues (working session)
-- Ricardo Caldas (working session)
-- Gabriel Araújo (working session)
-- Everaldo (site)
-- Caio Peluti (site)
-- Carlos Eduardo Taborda Lottermann (working session)
-- Vicente Romeiro de Moraes (working session)
-- Marco Vieira (working session)
+### Organization Committee:
+- Daniel de Paula Porto (UnB)
+- Ricardo Caldas (Chalmers)
+- Gabriel Araújo (UnB)
+- Vicente Romeiro de Moraes (UnB)
+- Caio Peluti (UnB)
+- Carlos Eduardo Taborda Lottermann (UnB)
+- Laryssa de Oliveira Ferreira (UnB)
+- Marco Vieira (UnB)
 
 
 ## <i class="fa-solid fa-map-pin" style="color:var(--theme-color)"></i> Location

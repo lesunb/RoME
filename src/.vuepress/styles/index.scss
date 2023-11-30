@@ -29,28 +29,6 @@
     z-index: -1; /* Coloca o pseudo-elemento atrás do conteúdo do body */
   }
 
-// body {
-//     margin: 0;
-//     padding: 0;
-//     // overflow: hidden; /* Evita que a imagem de fundo crie barras de rolagem */
-//   }
-  
-// body::before {
-//     content: "";
-//     position: fixed;
-//     top: 0;
-//     left: 0;
-//     width: 100%;
-//     height: 100%;
-//     background-image: url('/RoME/RoMELogo.png');
-//     background-position: center;
-//     background-size: cover;
-//     background-repeat: no-repeat;
-//     opacity: 0.2; /* 50% de opacidade */
-//     // z-index: -10; /* Coloca o pseudo-elemento atrás do conteúdo do body */
-//   }
-
-
 
 .vp-hero-info {
     display: block;
@@ -63,8 +41,8 @@
 
     .vp-hero-image {
         // max-height: 150px;
-        margin: 0 auto;
-        margin-top: 10%;
+        margin: 0px;
+        margin-top: 50px;
       }
 }
 
@@ -86,7 +64,6 @@
 }
 
 .tg td {
-    border-color: black;
     border-style: solid;
     border-width: 1px;
     font-family: Arial, sans-serif;
@@ -94,6 +71,7 @@
     overflow: hidden;
     padding: 10px 5px;
     word-break: normal;
+    color: #000;
 }
 
 .tg th {
@@ -106,6 +84,7 @@
     overflow: hidden;
     // padding: 10px 5px;
     word-break: normal;
+    color: #000;
 }
 
 .tg .tg-0x09 {
@@ -116,7 +95,8 @@
 
 .tg .tg-baqh {
     text-align: center;
-    vertical-align: middle
+    vertical-align: middle;
+    color: #9b9b9b;
 }
 
 .tg .tg-t4q3 {
@@ -128,7 +108,6 @@
 
 .tg .tg-tkab {
     background-color: #5883ff;
-    color: #ffffff;
     font-weight: bold;
     text-align: center;
     vertical-align: middle
@@ -136,7 +115,6 @@
 
 .tg .tg-2dgu {
     background-color: #5883ff;
-    color: #ffffff;
     font-family: inherit;
     font-weight: bold;
     text-align: center;
