@@ -30,7 +30,7 @@ export default hopeTheme({
 
   copyright: false,
 
-  darkmode: "toggle",
+  darkmode: "enable",
 
   footer: "<img src='assets/image/unb_logo.png' width='40' style='margin-right: 10px;vertical-align: middle;' /> <a href=mailto:'robotic.missions@gmail.com' >Contact</a> | Summer School Organizers © |  Design by lesunb",
 
