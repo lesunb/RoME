@@ -6,24 +6,24 @@ icon: id-card-alt
 
 Thanks for the interest in participate in our Summer School! As we have a limited number of seats, participantes should first register.
 
-## <i class="fas fa-wallet"></i> Costs
+## <i class="fas fa-wallet" style="color:var(--theme-color)"></i> Costs
 
 Registration fees are:
 
 **[Coming soon!]**
 
-## <i class="fas fa-plus"></i> What is included
+## <i class="fas fa-plus" style="color:var(--theme-color)"></i> What is included
 - Access to the event
 - Gifts
 - Coffe break
 - A certificate
 
-::: info Note
+::: warning Attention
 Lunch is not included.
 :::
 
 
-## <i class="fas fa-list-ul"></i> Steps
+## <i class="fas fa-list-ul" style="color:var(--theme-color)"></i> Steps
 For registering, participants should follow the following steps:
 
 - Aceess the page of the event in the [SIGAA system](https://sigaa.unb.br/sigaa/)
@@ -34,6 +34,8 @@ For registering, participants should follow the following steps:
 ::: info Doubts?
 Ask us [here](mailto:robotic.missions@gmail.com).
 :::
+
+
 
 
 

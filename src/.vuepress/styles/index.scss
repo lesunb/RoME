@@ -1,5 +1,57 @@
 // place your custom styles here
 
+// #main-content {
+//     background-image: url('/RoME/RoMELogo.png')!important;
+//     background-position: center;
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     // background-color: rgba(255, 255, 255, 0.5); /* 50% de opacidade */
+//     // position: fixed;
+//     opacity: 0.2; /* 50% de opacidade */
+// }
+
+#main-content{
+    z-index: 10;
+}
+
+#main-content::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/RoME/RoMELogo.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.15; /* 50% de opacidade */
+    z-index: -1; /* Coloca o pseudo-elemento atrás do conteúdo do body */
+  }
+
+// body {
+//     margin: 0;
+//     padding: 0;
+//     // overflow: hidden; /* Evita que a imagem de fundo crie barras de rolagem */
+//   }
+  
+// body::before {
+//     content: "";
+//     position: fixed;
+//     top: 0;
+//     left: 0;
+//     width: 100%;
+//     height: 100%;
+//     background-image: url('/RoME/RoMELogo.png');
+//     background-position: center;
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     opacity: 0.2; /* 50% de opacidade */
+//     // z-index: -10; /* Coloca o pseudo-elemento atrás do conteúdo do body */
+//   }
+
+
+
 .vp-hero-info {
     display: block;
     min-height: 100vh;
@@ -10,9 +62,9 @@
     // margin-bottom: 150px;
 
     .vp-hero-image {
-        max-height: 150px;
+        // max-height: 150px;
         margin: 0 auto;
-        margin-top: 25%;
+        margin-top: 10%;
       }
 }
 
@@ -20,7 +72,8 @@
     width: 90%; /* ajuste a largura da div como quiser */
     margin: auto; /* centraliza a div */
     display: flex; /* usa o layout flexível */
-    justify-content: space-between; /* distribui o espaço entre as imagens */
+    // justify-content: space-between; /* distribui o espaço entre as imagens */
+    column-gap: 50px;
     height: 80px;
   }
 

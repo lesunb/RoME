@@ -3,7 +3,7 @@ title: Program
 icon: calendar-alt
 ---
 
-## <i class="fas fa-calendar-check"></i> General Program - RoME 2024
+## <i class="fas fa-calendar-check" style="color:var(--theme-color)"></i> General Program - RoME 2024
 
 
 <table class="tg">
