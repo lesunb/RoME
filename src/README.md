@@ -88,8 +88,8 @@ CIC/EST Building,
 
 <div class="patrocinadores">
 
-  <img src="/RoME/assets/image/ie2.png"/>
-  <img src="/RoME/assets/image/acm.png"/>
+  <img src="/assets/image/ie2.png"/>
+  <img src="/assets/image/acm.png"/>
 
 </div>
 
@@ -97,6 +97,6 @@ CIC/EST Building,
 
 <div class="patrocinadores">
 
-  <img src="/RoME/assets/image/sbc.png"/>
+  <img src="/assets/image/sbc.png"/>
 
 </div>
