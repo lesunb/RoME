@@ -15,8 +15,8 @@ Registration fees are:
 ## <i class="fas fa-plus" style="color:var(--theme-color)"></i> What is included
 - Access to the event
 - Gifts
-- Coffe break
-- A certificate
+- Coffee break
+- Certificate
 
 ::: warning Attention
 Lunch is not included.
