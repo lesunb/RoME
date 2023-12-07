@@ -33,7 +33,7 @@ The expected outcomes of this summer school are to:
 
 (iv) foster the internationalization of research excellence through scientific collaboration between our research group and international academic centers of excellence.
 
-RoME will take place at the University of Brasília, from February 20th to February 23rd, 2024. For more information contact [us](mailto:robotic.missions@gmail.com).
+RoME will take place at the University of Brasília, from February 20th to February 23rd, 2024. For more information contact [us](mailto:romesummerschool@gmail.com).
 
 ## <i class="fas fa-microphone-alt" style="color:var(--theme-color)"></i> Keynotes
 
