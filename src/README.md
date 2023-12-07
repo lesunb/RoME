@@ -8,7 +8,7 @@ bgImageDark: /assets/image/cic_unb2_dark.jpg
 bgImageStyle:
   background-attachment: fixed
 heroText: RoME 2024
-tagline: Second Summer School on Robotic Mission Engineering.
+tagline: February 20 - 23 <br>  Second Summer School on Robotic Mission Engineering.
 actions:
   - text: Register now!
     icon: rocket
@@ -27,11 +27,11 @@ The expected outcomes of this summer school are to:
 
 (i) promote the dissemination of scientific research and its practical application regarding the engineering of autonomous robotic missions through systematic approaches to Software Engineering;
 
-(ii) promote technological innovation by sharing with the community of professors and university students both within UnB and other teaching institutions in Computing and similar in the Federal District,
+(ii) promote technological innovation with the research community in robotic and in Software Engineering.
 
 (iii) attract students to contribute to the development of the proposed research and
 
-(iv) foster the internationalization of research excellence through scientific collaboration between our research group and international academic centers of excellence.
+(iv) foster research collaboration between international academic centers of excellence!
 
 RoME will take place at the University of Brasília, from February 20th to February 23rd, 2024. For more information contact [us](mailto:romesummerschool@gmail.com).
 
