@@ -29,6 +29,11 @@
     z-index: -1; /* Coloca o pseudo-elemento atrás do conteúdo do body */
   }
 
+#main-description {
+    max-width: 40rem;
+    margin-top: 10px;
+    color: #FFF;
+}
 
 .vp-hero-info {
     display: block;
