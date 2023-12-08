@@ -14,6 +14,12 @@ actions:
     icon: rocket
     link: ./Registration/
     type: primary
+  - text: 
+    icon: fab fa-linkedin
+    link: https://www.linkedin.com/company/rome-summer-school-unb/
+  - text: 
+    icon: fab fa-instagram
+    link: https://www.instagram.com/romeunb?utm_source=qr
 
 ---
 
