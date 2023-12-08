@@ -46,6 +46,7 @@ export default hopeTheme({
     editLink: "Edit this page on GitHub",
   },
 
+
   plugins: {
     // You should generate and use your own comment service
     // comment: {

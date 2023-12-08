@@ -10,7 +10,7 @@
 //     opacity: 0.2; /* 50% de opacidade */
 // }
 
-#main-content{
+#main-content {
     z-index: 10;
 }
 
@@ -25,9 +25,11 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.15; /* 50% de opacidade */
-    z-index: -1; /* Coloca o pseudo-elemento atrás do conteúdo do body */
-  }
+    opacity: 0.15;
+    /* 50% de opacidade */
+    z-index: -1;
+    /* Coloca o pseudo-elemento atrás do conteúdo do body */
+}
 
 #main-description {
     max-width: 40rem;
@@ -40,7 +42,7 @@
     min-height: 100vh;
     max-height: 100vh;
     // text-align: center;
-    
+
     // margin-top: 25vh;
     // margin-bottom: 150px;
 
@@ -48,17 +50,20 @@
         // max-height: 150px;
         margin: 0px;
         margin-top: 50px;
-      }
+    }
 }
 
 .patrocinadores {
-    width: 90%; /* ajuste a largura da div como quiser */
-    margin: auto; /* centraliza a div */
-    display: flex; /* usa o layout flexível */
+    width: 90%;
+    /* ajuste a largura da div como quiser */
+    margin: auto;
+    /* centraliza a div */
+    display: flex;
+    /* usa o layout flexível */
     // justify-content: space-between; /* distribui o espaço entre as imagens */
     column-gap: 50px;
     height: 80px;
-  }
+}
 
 //tabela de programação
 .tg {
@@ -171,4 +176,76 @@
 .tg .tg-0lax {
     text-align: left;
     vertical-align: middle
+}
+
+
+// Tabela de preços
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tg .tg-uqo3 {
+    background-color: #efefef;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-v8f3 {
+    background-color: #efefef;
+    color: #000000;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-kftd {
+    background-color: #efefef;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-be0x {
+    background-color: #6665cd;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-d2of {
+    background-color: #6665cd;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-y9lf {
+    background-color: #efefef;
+    color: #000000;
+    text-align: left;
+    vertical-align: top
 }
