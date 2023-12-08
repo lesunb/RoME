@@ -13,7 +13,7 @@ Registration fees are:
 |                         | Early registration <br> (until January 20th) | Late registration <br> (after January 20th) |
 |-------------------------|:---------------------------------------:|:--------------------------------------:|
 | Undergraduate students* | BRL 80                                  | BRL 100                                |
-| Postgraduate students*  | BRL 100                                 | BRL 150                                |
+| Graduate students*      | BRL 100                                 | BRL 150                                |
 
 \*  Students from the following Universities have 25% discount in the registration fee: Universidad de Buenos Aires (UBA), Universidade  Estadual do Ceará (UECE) and Universidade de Brasília (UNB).
  
@@ -24,7 +24,7 @@ Registration fees are:
 
 ## <i class="fas fa-plus" style="color:var(--theme-color)"></i> What is included
 - Access to the event
-- A participants kit
+- A participants kit (bag, mug and T-shirt)
 - Coffee break
 - Certificate
 
