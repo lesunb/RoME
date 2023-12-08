@@ -25,6 +25,6 @@ Read more about Dr. Sebastian Uchitel in [his web page](https://www.imperial.ac.
 
 ## <i class="fas fa-calendar-check" style="color:var(--theme-color)"></i> Keynotes Schedule
 
-Check the [program](/program) for the keynotes schedule
+Check the [program](/RoME/program) for the keynotes schedule
 
 

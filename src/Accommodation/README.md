@@ -7,7 +7,7 @@ The University of Brasilia will offer shared apartments exclusively for RoME par
  
 An important note: The accommodation is free of charge for the five days of RoME. If you wish to extend your stay, the additional daily rate will be BRL 49.00 per day.  Please, make sure you bring your own bed linen, towels, toiletries as these items are not provided by the University of Brasilia.
  
-To apply for a reservation, please fill out the form available [at this link].
+To apply for a reservation, please fill out the form available [at this link](https://forms.gle/8SjQUkptNUxJoqYJ6).
  
 We are happy to answer any questions and look forward to welcoming you on this very special venue!
 
