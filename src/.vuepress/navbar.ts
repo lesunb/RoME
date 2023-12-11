@@ -3,12 +3,12 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   // "/demo/",
-  "Keynotes",
-  "Program",
-  "Registration",
-  "Accommodation",
-  "Steering",
-  "Previous",
+  "/Keynotes/",
+  "/Program/",
+  "/Registration/",
+  "/Accommodation/",
+  "/Steering/",
+  "/Previous/",
   // {
   //   text: "Guide",
   //   icon: "lightbulb",
