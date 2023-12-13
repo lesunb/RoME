@@ -56,6 +56,19 @@ More about keynote speakers [here](/RoME/Keynotes).
   - Mechatronics
   - and alike
 
+## <i class="fas fa-crosshairs" style="color:var(--theme-color)"></i> Topics of Interest
+
+- Requirements modelling, specification and verification for robotic mission engineering
+- Runtime architecture for robotic mission engineering
+- Runtime verification for robotic mission engineering
+- Simulation-oriented robotic mission engineering
+- Empirical methods for robotic mission engineering
+- Field-based testing in robotic systems
+- ROS-based systems
+
+## <i class="fas fa-hand-holding-usd" style="color:var(--theme-color)"></i> Student Grant
+
+RoME will sponsor via ACM Sigsoft up to 10 students grants of BRL 2,500 to support travel and registration costs **for students coming outside Brasilia**. If you want to apply for a student grant, you should fill [this form] provided with  your proof of registration.
 
 ## <i class="fas fa-users" style="color:var(--theme-color)"></i> Organizers
 
