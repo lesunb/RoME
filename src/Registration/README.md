@@ -49,7 +49,7 @@ Registration fees are:
 Lunch is not included.
 :::
 
-## <i class="fas fa-id-card-alt" style="color:var(--theme-color)"></i> Registration link
+## <i class="fas fa-link" style="color:var(--theme-color)"></i> Registration link
 
 Make your registration [here](https://www.even3.com.br/first-summer-school-on-robotic-mission-engineering-rome-416993/).
 
