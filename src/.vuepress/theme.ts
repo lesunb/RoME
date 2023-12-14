@@ -21,15 +21,14 @@ export default hopeTheme({
   docsDir: "src",
 
   navbar,
-  
-  // sidebar,
 
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["Language", "Repo", "LinkedinLink", "InstagramLink", "Outlook", "Search"],
+    end: ["Language", "Repo", "Outlook", "Search", "LinkedinLink", "InstagramLink"],
   },
 
+  // sidebar,
   sidebar: false,
 
   pageInfo: false,

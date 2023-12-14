@@ -4,15 +4,15 @@ import { h } from "vue";
 const LinkedinLink: FunctionalComponent = () =>
   h(
     "div",
-    { class: "nav-item vp-repo" },
+    { class: "nav-item vp-repo linkedin-link" },
     h("a", {
       class: "vp-repo-link",
-      href: "https://t.me/vuepressthemehope",
+      href: "https://www.linkedin.com/company/rome-summer-school-unb/",
       target: "_blank",
       rel: "noopener noreferrer",
       "aria-label": "linkedin",
       innerHTML:
-        '<div class="linkedin-link"><a href="https://www.linkedin.com/company/rome-summer-school-unb/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a></div>',
+        '<i class="fab fa-linkedin"></i>',
     }),
   );
 
