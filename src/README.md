@@ -14,12 +14,6 @@ actions:
     icon: rocket
     link: ./Registration/
     type: primary
-  - text: 
-    icon: fab fa-linkedin
-    link: https://www.linkedin.com/company/rome-summer-school-unb/
-  - text: 
-    icon: fab fa-instagram
-    link: https://www.instagram.com/romeunb?utm_source=qr
 
 ---
 
@@ -58,6 +52,7 @@ More about keynote speakers [here](/RoME/Keynotes).
 
 ## <i class="fas fa-crosshairs" style="color:var(--theme-color)"></i> Topics of Interest
 
+- Self-adaptiveness and autonomous solutions for robotic mission engineering
 - Requirements modelling, specification and verification for robotic mission engineering
 - Runtime architecture for robotic mission engineering
 - Runtime verification for robotic mission engineering
@@ -68,7 +63,11 @@ More about keynote speakers [here](/RoME/Keynotes).
 
 ## <i class="fas fa-hand-holding-usd" style="color:var(--theme-color)"></i> Student Grant
 
-RoME will sponsor via ACM Sigsoft up to 10 students grants of BRL 2,500 to support travel and registration costs **for students coming outside Brasilia**. If you want to apply for a student grant, you should fill [this form] provided with  your proof of registration.
+RoME will sponsor via ACM Sigsoft up to 10 students grants of BRL 2,500 to support travel and registration costs **for students coming outside Brasilia**.
+
+If you want to apply for a student grant, you should fill [this form] provided with  your proof of registration. 
+
+Student membership for ACM Sigsoft or SBC (Brazilian Computer Society) is desirable.
 
 ## <i class="fas fa-users" style="color:var(--theme-color)"></i> Organizers
 
