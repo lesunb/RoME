@@ -41,12 +41,14 @@ Registration fees are:
 
 ## <i class="fas fa-plus" style="color:var(--theme-color)"></i> What is included
 - Access to the event
-- A participants kit (bag, mug and T-shirt)
+- A participant kit (bag, water squeeze bottle, and T-shirt) *
 - Coffee break
 - Certificate
 
 ::: warning Attention
 Lunch is not included.
+
+\* **The participant kit is limited to 60 participants**.
 :::
 
 ## <i class="fas fa-link" style="color:var(--theme-color)"></i> Registration link
