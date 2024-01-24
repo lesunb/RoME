@@ -23,6 +23,14 @@ Sebastian Uchitel holds a Readership at Imperial College London and is currently
 
 Read more about Dr. Sebastian Uchitel in [his web page](https://www.imperial.ac.uk/people/s.uchitel)
 
+## <i class="fas fa-user" style="color:var(--theme-color)"></i> Claudio Menghi
+
+![](cm.jpg){width="200"}
+
+Claudio Menghi earned his BSc and MSc degrees in computer science from the Politecnico di Milano, where he later completed his Ph.D. under the guidance of Prof. Carlo Ghezzi in 2015. Transitioning to the academic realm, Claudio ventured into Postdoctoral Research at the University of Gothenburg and Chalmers from 2017 to 2018. Following this, he assumed the role of Research Associate at the Interdisciplinary Centre for Security, Reliability, and Trust, University of Luxembourg, from 2018 to 2021. In 2021, Claudio Menghi took on the role of Assistant Professor at McMaster University, and subsequently, in 2023, he expanded his academic journey as an Assistant Professor at the University of Bergamo. Not content with just one academic home, Claudio also serves as an Adjunct Professor at McMaster University.
+
+Read more about Dr. Claudio Menghi in [his web page](https://claudiomenghi.github.io/)
+
 ## <i class="fas fa-calendar-check" style="color:var(--theme-color)"></i> Keynotes Schedule
 
 Check the [program](/RoME/program) for the keynotes schedule
