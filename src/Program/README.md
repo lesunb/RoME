@@ -9,73 +9,73 @@ icon: calendar-alt
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tkab"><span style="font-style:normal">Time/Day</span></th>
-    <th class="tg-tkab">February 20th</th>
-    <th class="tg-tkab">February 21st</th>
-    <th class="tg-2dgu"><span style="font-style:normal">February 22nd</span></th>
-    <th class="tg-2dgu"><span style="font-style:normal">February 23rd</span></th>
+    <th class="tg-bq31">Time/Day</th>
+    <th class="tg-bq31">Tuesday, Feb   20th</th>
+    <th class="tg-bq31">Wednesday, Feb   21st</th>
+    <th class="tg-bq31">Thursday, Feb   22nd</th>
+    <th class="tg-bq31">Friday, Feb   23rd</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh">09:00</td>
-    <td class="tg-0x09" rowspan="6"></td>
-    <td class="tg-8xib">Keynote 1</td>
-    <td class="tg-8xib"><span style="font-weight:400;font-style:normal">Keynote 2</span></td>
-    <td class="tg-8xib"><span style="font-weight:400;font-style:normal">Keynote 3</span></td>
+    <td class="tg-amwm">09:00</td>
+    <td class="tg-ddj9" rowspan="6"> <br><br><br><br><br></td>
+    <td class="tg-0c6x">Claudio Menghi Keynote</td>
+    <td class="tg-9fnw"> Architecture in RME</td>
+    <td class="tg-0c6x"> Patrizio Pelliccione keyonte</td>
   </tr>
   <tr>
-    <td class="tg-baqh">10:00</td>
-    <td class="tg-sh07" colspan="3">Coffee break</td>
+    <td class="tg-amwm">10:00</td>
+    <td class="tg-qrlx" colspan="3">Coffee break</td>
   </tr>
   <tr>
-    <td class="tg-baqh">10:30</td>
-    <td class="tg-ltxa">Technical Session 1</td>
-    <td class="tg-ltxa">Technical Session 4</td>
-    <td class="tg-ltxa" rowspan="2">Discussion Panel<br><br></td>
+    <td class="tg-amwm">10:30</td>
+    <td class="tg-9fnw">Requirements in RME</td>
+    <td class="tg-9fnw"> Verification in RME I</td>
+    <td class="tg-9fnw" rowspan="2">Discussion panel</td>
   </tr>
   <tr>
-    <td class="tg-baqh">11:00</td>
-    <td class="tg-ltxa"><span style="font-weight:400;font-style:normal">Technical Session 2</span></td>
-    <td class="tg-ltxa"><span style="font-weight:400;font-style:normal">Technical Session 5</span></td>
+    <td class="tg-amwm">11:00</td>
+    <td class="tg-9fnw">Self-adaptiveness in   RME</td>
+    <td class="tg-9fnw"> Verification in RME II</td>
   </tr>
   <tr>
-    <td class="tg-baqh">11:30</td>
-    <td class="tg-ltxa">Technical Session 3</td>
-    <td class="tg-ltxa"><span style="font-weight:400;font-style:normal">Technical Session 6</span></td>
-    <td class="tg-4aw5"><span style="font-weight:400;font-style:normal">Closing Ceremony</span></td>
+    <td class="tg-amwm">11:30</td>
+    <td class="tg-9fnw">Simulation in RME</td>
+    <td class="tg-9fnw">Field Testing in RME</td>
+    <td class="tg-zsuv">Closing Ceremony</td>
   </tr>
   <tr>
-    <td class="tg-baqh">12:00</td>
-    <td class="tg-sh07" colspan="3">Lunch break<br></td>
+    <td class="tg-amwm">12:00</td>
+    <td class="tg-qrlx" colspan="3">Lunch time</td>
   </tr>
   <tr>
-    <td class="tg-baqh">14:00</td>
-    <td class="tg-j6lv">Registration<br></td>
-    <td class="tg-ifcm">Working Session 1</td>
-    <td class="tg-ifcm"><span style="font-weight:400;font-style:normal">Working Session 3</span></td>
-    <td class="tg-y6fn" rowspan="4"></td>
+    <td class="tg-amwm">14:00</td>
+    <td class="tg-zsuv">Registration</td>
+    <td class="tg-slju">WS 1 - Turtlebots I</td>
+    <td class="tg-0c6x">Marsha Chechik Keyonte</td>
+    <td class="tg-ddj9" rowspan="5"> <br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh">15:30</td>
-    <td class="tg-j6lv" rowspan="2">Opening <br>Ceremony</td>
-    <td class="tg-sh07" colspan="2"><span style="font-weight:400;font-style:normal">Coffee break</span></td>
+    <td class="tg-amwm">15:30</td>
+    <td class="tg-zsuv">Opening Ceremony</td>
+    <td class="tg-qrlx" colspan="2">Coffee break</td>
   </tr>
   <tr>
-    <td class="tg-baqh">16:00</td>
-    <td class="tg-ifcm" rowspan="2"><span style="font-weight:400;font-style:normal">Working Session 2</span></td>
-    <td class="tg-ifcm" rowspan="2"><span style="font-weight:400;font-style:normal">Working Session 4</span></td>
+    <td class="tg-amwm">16:00</td>
+    <td class="tg-0c6x">Sebastian Uchitel Keynote</td>
+    <td class="tg-slju" rowspan="2">WS 2 - Turtlebots II</td>
+    <td class="tg-slju" rowspan="2">Working   Session 3<br>     SA-BSN</td>
   </tr>
   <tr>
-    <td class="tg-baqh">17:30</td>
-    <td class="tg-j6lv">Welcome Reception<br></td>
+    <td class="tg-amwm">17:30</td>
+    <td class="tg-zsuv">Welcome Reception</td>
   </tr>
   <tr>
-    <td class="tg-baqh">18:00</td>
-    <td class="tg-t4q3">End of day 1</td>
-    <td class="tg-t4q3"><span style="font-style:normal">End of day 2</span></td>
-    <td class="tg-t4q3"><span style="font-style:normal">End of day 3</span></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-amwm">18:00</td>
+    <td class="tg-amwm">      End of day 1</td>
+    <td class="tg-amwm">End of day 2</td>
+    <td class="tg-amwm">End of day 3</td>
   </tr>
 </tbody>
 </table>

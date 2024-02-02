@@ -31,6 +31,14 @@ Claudio Menghi earned his BSc and MSc degrees in computer science from the Polit
 
 Read more about Dr. Claudio Menghi in [his web page](https://claudiomenghi.github.io/)
 
+## <i class="fas fa-user" style="color:var(--theme-color)"></i> Marsha Chechik
+
+![](mc.jpg){width="200"}
+
+Marsha Chechik is a professor (former Chair, 2019-22) in the Department of Computer Science at the University of Toronto, Canada, and holds a significant role in academia. She served as the Acting Dean of the Faculty of Information from July to December 2022, extending her influence beyond the Computer Science realm. Her primary interests revolve around Software Engineering, focusing on Safety and Security Assurance, Automated Verification, Software Product Lines, and Model Management. Her research pursuits delve into applying formal methods to elevate software quality. This encompasses scalable, automated verification techniques such as model-checking and theorem-proving, user-friendly formal specification languages for easy comprehension and review, protocol verification, exploration of non-classical logic, and adept reasoning under inconsistency.
+
+Read more about Dr. Marsha Chechik in [her web page](https://www.cs.toronto.edu/~chechik/)
+
 ## <i class="fas fa-calendar-check" style="color:var(--theme-color)"></i> Keynotes Schedule
 
 Check the [program](/RoME/program) for the keynotes schedule
