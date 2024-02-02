@@ -53,7 +53,7 @@ icon: calendar-alt
     <td class="tg-amwm">14:00</td>
     <td class="tg-zsuv">Registration</td>
     <td class="tg-slju">WS 1 - Turtlebots I</td>
-    <td class="tg-0c6x">Marsha Chechik Keyonte</td>
+    <td class="tg-0c6x">Marsha Chechik Keynote</td>
     <td class="tg-ddj9" rowspan="5"> <br><br><br><br></td>
   </tr>
   <tr>
