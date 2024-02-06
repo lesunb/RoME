@@ -39,6 +39,8 @@ RoME will take place at the University of Brasília, from February 20th to Febru
 
 - Patrizio Pelliccione (GSSI - Italy) - in person
 - Sebastian Uchitel (Imperial College London - United Kingdom) - in person
+- Claudio Menghi (University of Bergamo - Italy and McMaster University - Canada) - remotely
+- Marsha Chechik (University of Toronto - Canada) - remotely
 
 More about keynote speakers [here](/RoME/Keynotes).
 
