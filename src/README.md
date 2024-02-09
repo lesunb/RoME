@@ -15,6 +15,17 @@ actions:
     link: ./Registration/
     type: primary
 
+highlights:
+  - header: Last Updates
+    image: /assets/image/new.png
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
+    highlights:
+      - title: Keynotes updated
+      - title: Activities’ schedule updated on the Program page
+      - title: Location of each activity added to the Program page
+      - title: Detailed schedule of working sessions added to the Program page
+      
 ---
 
 <br>
@@ -116,3 +127,5 @@ CIC/EST Building,
   <img src="/assets/image/sbc.png"/>
 
 </div>
+
+<!-- <div v-html="$InstaFeedComponent"></div> -->

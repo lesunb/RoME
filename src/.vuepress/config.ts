@@ -1,6 +1,12 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
+// Importe o plugin que você criou
+const InstaFeedplugin = require('./components/InstaFeedplugin.js');
+
+
+
+
 export default defineUserConfig({
   base: "/RoME/",
 
@@ -17,6 +23,14 @@ export default defineUserConfig({
 
   theme,
 
+  // Outras configurações do VuePress
+  plugins: [
+    // Outros plugins do VuePress
+    // Configure o plugin Instagram
+    InstaFeedplugin,
+  ],
+
   // Enable it with pwa
   // shouldPrefetch: false,
 });
+
