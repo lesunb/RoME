@@ -9,6 +9,7 @@ export default navbar([
   "/Accommodation/",
   "/Steering/",
   "/Previous/",
+  // "InstaFeedComponent.vue",
   // {
   //   text: "Guide",
   //   icon: "lightbulb",
