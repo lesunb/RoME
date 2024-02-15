@@ -98,22 +98,22 @@ icon: calendar-alt
   <tr>
     <td class="tg-zsuv"></td>
     <td class="horario">14:00h</td>
-    <td class="descricao">Registration desk - kits hand-in at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Registration desk - kits hand-in at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
   <tr>
     <td class="tg-zsuv"></td>
     <td class="horario">15:00h</td>
-    <td class="descricao">Opening Ceremony at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Opening Ceremony at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
   <tr>
     <td class="tg-0c6x"></td>
     <td class="horario">15:30h</td>
-    <td class="descricao">Intro + Keynote 1 at at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Intro + Keynote 1 at at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
   <tr>
     <td class="tg-zsuv"></td>
     <td class="horario">17:00h</td>
-    <td class="descricao">Welcome Reception at CIC/EST Building</td>
+    <td class="descricao">Welcome Reception at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
   <tr>
     <td class=""></td>
@@ -130,29 +130,29 @@ icon: calendar-alt
   <tr>
     <td class="tg-0c6x"></td>
     <td class="horario">09:00h</td>
-    <td class="descricao">Keynote 2 at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Keynote 2 at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
   <tr>
     <td class="tg-qrlx"></td>
     <td class="horario">10:00h</td>
-    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+    <td class="descricaoEnd">Coffee-break at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">10:30h</td>
-    <td class="descricao">Requirements in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Requirements in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Mission Specification and Decomposition for Multi-Robots Systems: Caio Peluti (UnB) e Marco Vieira (UnB)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">11:00h</td>
-    <td class="descricao">Architecture in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Architecture in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">An Architecture for Mission Coordination of Heterogeneous Robots: Gabriel Siqueira Rodrigues (UnB)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">11:30h</td>
-    <td class="descricao">Simulation in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Simulation in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Dexpro: Distributed Experiments for Robotics - Vicente Romeiro de Moraes (UnB)</i></td>
   </tr>
     <tr>
@@ -167,17 +167,17 @@ icon: calendar-alt
   <tr>
     <td class="tg-slju"></td>
     <td class="horario">14:00h</td>
-    <td class="descricao">Working Session I at CIC/EST building</td>
+    <td class="descricao">Working Session I at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
     <tr>
     <td class="tg-qrlx"></td>
     <td class="horario">15:30h</td>
-    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+    <td class="descricaoEnd">Coffee-break at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
     <tr>
     <td class="tg-slju"></td>
     <td class="horario">16:00h</td>
-    <td class="descricao">Working Session II at CIC/EST building</td>
+    <td class="descricao">Working Session II at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
   <tr>
     <td class=""></td>
@@ -196,48 +196,48 @@ icon: calendar-alt
   <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">09:00h</td>
-    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Formal Synthesis of Uncertainty Reduction Controllers - Marc Carwehl (Humboldt)</i></td>
   </tr>
   <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">09:20h</td>
-    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Dealing with uncertainties in drone-based missions - Lucas Vieira Alves (UECE)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">09:40h</td>
-    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Body Sensor Network: A Self-Adaptive Artefact for the Healthcare Domain - Carlos E. Lotterman (UnB) and Ricardo D. Caldas (Chalmers)</i></td>
   </tr>
   <tr>
     <td class="tg-qrlx"></td>
     <td class="horario">10:00h</td>
-    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+    <td class="descricaoEnd">Coffee-break at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">10:30h</td>
-    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Guidelines for Testing and Verification of ROS-based Robotics Systems in the Field - Ricardo D. Caldas (Chalmers)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">10:50h</td>
-    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">TBD - Florencia Zanollo (UBA)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">11:10h</td>
-    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Exploiting modular game representation for GR(1) synthesis - Hernán Gagliardi (UBA)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">11:30h</td>
-    <td class="descricao">Explainability in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Explainability in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Trace-Diagnostic for Signal Temporal Properties: an Evolutionary Approach - Gabriel Araújo (UnB)</i></td>
   </tr>  
   <tr>
@@ -247,22 +247,22 @@ icon: calendar-alt
     <tr>
     <td class="tg-0c6x"></td>
     <td class="horario">14:00h</td>
-    <td class="descricao">Keynote 3 at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Keynote 3 at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
     <tr>
     <td class="tg-slju"></td>
     <td class="horario">15:00h</td>
-    <td class="descricao">Introduction to Working Session III - at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Introduction to Working Session III - at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
     <tr>
     <td class="tg-qrlx"></td>
     <td class="horario">15:30h</td>
-    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+    <td class="descricaoEnd">Coffee-break at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
     <tr>
     <td class="tg-slju"></td>
     <td class="horario">15:30h</td>
-    <td class="descricao">Working Session III at CIC/EST building</td>
+    <td class="descricao">Working Session III at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
   <tr>
     <td class=""></td>
@@ -279,29 +279,29 @@ icon: calendar-alt
   <tr>
     <td class="tg-0c6x"></td>
     <td class="horario">09:00h</td>
-    <td class="descricao">Keynote 4 at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Keynote 4 at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>  
   <tr>
     <td class="tg-qrlx"></td>
     <td class="horario">10:00h</td>
-    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+    <td class="descricaoEnd">Coffee-break at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
   <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">10:30h</td>
-    <td class="descricao">Discussion panel at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Discussion panel at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">11:30h</td>
-    <td class="descricao">Break-out rooms at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <td class="descricao">Break-out rooms at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Room 1 - Scientific initiation for undergraduate students - Laryssa Ferreira<br>
     Room 2 - Sharing experiences as a PhD student - Ricardo Caldas</i></td>
   </tr>
     <tr>
     <td class="tg-zsuv"></td>
     <td class="horario">11:55h</td>
-    <td class="descricao">Closing Ceremony at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+    <td class="descricao">Closing Ceremony at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a></td>
   </tr>
     <tr>
     <td class=""></td>
@@ -315,28 +315,28 @@ icon: calendar-alt
 
 
 
-<!-- at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a>
+<!-- at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a>
 
-at <a href="./Locations.html#cic-meeting-room">CIC Meeting Room</a>
+at <a href="./Locations.html#cic-est-building">CIC/EST Building</a>
 
-at <a href="./Locations.html#est-meeting-room">EST Meeting Room</a> -->
+-->
 
 
 
 ## <i class="fa-solid fa-id-card-clip" style="color:var(--theme-color)"></i> Registration
 
-Location: [IPOL/IREL building Auditorium](./Locations.html#ipol-irel-building-auditorium-ground-floor)
+Location: [IPOL/IREL Building Auditorium](./Locations.html#ipol-irel-building)
 
 ## <i class="fa-solid fa-microphone-alt" style="color:var(--theme-color)"></i> Keynotes
 
-Location: [IPOL/IREL building Auditorium](./Locations.html#ipol-irel-building-auditorium-ground-floor)
+Location: [IPOL/IREL Building Auditorium](./Locations.html#ipol-irel-building)
 
 ## <i class="fa-solid fa-compass-drafting" style="color:var(--theme-color)"></i> Technical Session
 
-Location: [IPOL/IREL building Auditorium](./Locations.html#ipol-irel-building-auditorium-ground-floor)
+Location: [IPOL/IREL Building Auditorium](./Locations.html#ipol-irel-building)
 
 ## <i class="fa-solid fa-briefcase" style="color:var(--theme-color)"></i> Working Sessions
-Location: CIC/EST building
+Location: [CIC/EST building](./Locations.html#cic-est-building)
 
-- [CIC Meeting Room](./Locations.html#cic-meeting-room)
-- [EST Meeting Room](./Locations.html#est-meeting-room)
+- CIC Meeting Room
+- EST Meeting Room
