@@ -1,9 +1,11 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
-// Importe o plugin que você criou
-const InstaFeedplugin = require('./components/InstaFeedplugin.js');
 
+
+// Importe o plugin que você criou
+// const InstaFeedplugin = require('./vueComponents/InstaFeedplugin.js');
+// const { path } = require('@vuepress/utils')
 
 
 
@@ -27,10 +29,26 @@ export default defineUserConfig({
   plugins: [
     // Outros plugins do VuePress
     // Configure o plugin Instagram
-    InstaFeedplugin,
+    // InstaFeedComponent,
+    // 'register-components',
+    // {
+    //   componentsDir: path.resolve(__dirname, './components'),
+    // },
   ],
+
+  // plugins: [
+  //   VuePressRegisterComponents,
+  //   {
+  //     componentsDir: 'vueComponents'
+  //   }
+  // ]
 
   // Enable it with pwa
   // shouldPrefetch: false,
+
+  // No seu arquivo .vuepress/config.js
+
+  
+
 });
 

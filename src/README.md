@@ -21,8 +21,8 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
+      - title: Full detailed schedule added to the <a href="./Program/">Program page</a>.
       - title: The location of our event has an update. The registration, keynote and morning sessions will be in the IPOL/IREL building auditorium. The other ones will be in the CIC/EST building. The buildings are just beside each other.
-      - title: Detailed schedule of working sessions added to the Program page
       
 ---
 
@@ -126,4 +126,4 @@ CIC/EST Building,
 
 </div>
 
-<!-- <div v-html="$InstaFeedComponent"></div> -->
+<!-- <InstaFeedComponent/> -->
