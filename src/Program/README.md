@@ -80,50 +80,263 @@ icon: calendar-alt
 </table>
 
 
+## <i class="fas fa-calendar-check" style="color:var(--theme-color)"></i> Detailed Program - RoME 2024
+
+
+
+
+
+
+
+
+::: tabs
+
+@tab:active Tue 20 Feb
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-zsuv"></td>
+    <td class="horario">14:00h</td>
+    <td class="descricao">Registration desk - kits hand-in at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zsuv"></td>
+    <td class="horario">15:00h</td>
+    <td class="descricao">Opening Ceremony at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0c6x"></td>
+    <td class="horario">15:30h</td>
+    <td class="descricao">Intro + Keynote 1 at at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zsuv"></td>
+    <td class="horario">17:00h</td>
+    <td class="descricao">Welcome Reception at CIC/EST Building</td>
+  </tr>
+  <tr>
+    <td class=""></td>
+    <td class="horario">18:00h</td>
+    <td class="descricaoEnd">End of Day 1</td>
+  </tr>
+</tbody>
+</table>
+
+@tab Wed 21 Feb
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0c6x"></td>
+    <td class="horario">09:00h</td>
+    <td class="descricao">Keynote 2 at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+  <tr>
+    <td class="tg-qrlx"></td>
+    <td class="horario">10:00h</td>
+    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">10:30h</td>
+    <td class="descricao">Requirements in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Mission Specification and Decomposition for Multi-Robots Systems: Caio Peluti (UnB) e Marco Vieira (UnB)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">11:00h</td>
+    <td class="descricao">Architecture in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">An Architecture for Mission Coordination of Heterogeneous Robots: Gabriel Siqueira Rodrigues (UnB)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">11:30h</td>
+    <td class="descricao">Simulation in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Dexpro: Distributed Experiments for Robotics - Vicente Romeiro de Moraes (UnB)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-slju"></td>
+    <td class="horario">11:50h</td>
+    <td class="descricao">Introduction to Working Session I</td>
+  </tr>
+    <tr>
+    <td class="tg-qrlx"></td>
+    <td class="descricaoEnd" colspan="2">12:00h - 14:00h - Lunch time</td>
+  </tr>
+  <tr>
+    <td class="tg-slju"></td>
+    <td class="horario">14:00h</td>
+    <td class="descricao">Working Session I at CIC/EST building</td>
+  </tr>
+    <tr>
+    <td class="tg-qrlx"></td>
+    <td class="horario">15:30h</td>
+    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+  </tr>
+    <tr>
+    <td class="tg-slju"></td>
+    <td class="horario">16:00h</td>
+    <td class="descricao">Working Session II at CIC/EST building</td>
+  </tr>
+  <tr>
+    <td class=""></td>
+    <td class="horario">18:00h</td>
+    <td class="descricaoEnd">End of Day 2</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- <i class="palestrantes"></i> -->
+
+@tab Thu 22 Feb
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">09:00h</td>
+    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Formal Synthesis of Uncertainty Reduction Controllers - Marc Carwehl (Humboldt)</i></td>
+  </tr>
+  <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">09:20h</td>
+    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Dealing with uncertainties in drone-based missions - Lucas Vieira Alves (UECE)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">09:40h</td>
+    <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Body Sensor Network: A Self-Adaptive Artefact for the Healthcare Domain - Carlos E. Lotterman (UnB) and Ricardo D. Caldas (Chalmers)</i></td>
+  </tr>
+  <tr>
+    <td class="tg-qrlx"></td>
+    <td class="horario">10:00h</td>
+    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">10:30h</td>
+    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Guidelines for Testing and Verification of ROS-based Robotics Systems in the Field - Ricardo D. Caldas (Chalmers)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">10:50h</td>
+    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">TBD - Florencia Zanollo (UBA)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">11:10h</td>
+    <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Exploiting modular game representation for GR(1) synthesis - Hernán Gagliardi (UBA)</i></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">11:30h</td>
+    <td class="descricao">Explainability in RME at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Trace-Diagnostic for Signal Temporal Properties: an Evolutionary Approach - Gabriel Araújo (UnB)</i></td>
+  </tr>  
+  <tr>
+    <td class="tg-qrlx"></td>
+    <td class="descricaoEnd" colspan="2">11:50h - 14:00h - Lunch time</td>
+  </tr>
+    <tr>
+    <td class="tg-0c6x"></td>
+    <td class="horario">14:00h</td>
+    <td class="descricao">Keynote 3 at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+    <tr>
+    <td class="tg-slju"></td>
+    <td class="horario">15:00h</td>
+    <td class="descricao">Introduction to Working Session III - at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+    <tr>
+    <td class="tg-qrlx"></td>
+    <td class="horario">15:30h</td>
+    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+  </tr>
+    <tr>
+    <td class="tg-slju"></td>
+    <td class="horario">15:30h</td>
+    <td class="descricao">Working Session III at CIC/EST building</td>
+  </tr>
+  <tr>
+    <td class=""></td>
+    <td class="horario">18:00h</td>
+    <td class="descricaoEnd">End of Day 3</td>
+  </tr>
+</tbody>
+</table>
+
+@tab Fri 23 Feb
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0c6x"></td>
+    <td class="horario">09:00h</td>
+    <td class="descricao">Keynote 4 at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>  
+  <tr>
+    <td class="tg-qrlx"></td>
+    <td class="horario">10:00h</td>
+    <td class="descricaoEnd">Coffee-break at CIC/EST building</td>
+  </tr>
+  <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">10:30h</td>
+    <td class="descricao">Discussion panel at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+    <tr>
+    <td class="tg-9fnw"></td>
+    <td class="horario">11:30h</td>
+    <td class="descricao">Break-out rooms at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a><br>
+    <i class="palestrantes">Room 1 - Scientific initiation for undergraduate students - Laryssa Ferreira<br>
+    Room 2 - Sharing experiences as a PhD student - Ricardo Caldas</i></td>
+  </tr>
+    <tr>
+    <td class="tg-zsuv"></td>
+    <td class="horario">11:55h</td>
+    <td class="descricao">Closing Ceremony at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a></td>
+  </tr>
+    <tr>
+    <td class=""></td>
+    <td class="horario">12:00h</td>
+    <td class="descricaoEnd">End of RoME’24</td>
+  </tr>
+</tbody>
+</table>
+
+:::
+
+
+
+<!-- at <a href="./Locations.html#ipol-irel-building-auditorium-ground-floor">IPOL/IREL building Auditorium</a>
+
+at <a href="./Locations.html#cic-meeting-room">CIC Meeting Room</a>
+
+at <a href="./Locations.html#est-meeting-room">EST Meeting Room</a> -->
+
+
+
 ## <i class="fa-solid fa-id-card-clip" style="color:var(--theme-color)"></i> Registration
-Location: IPOL/IREL building Auditorium (ground floor)
 
-[https://maps.app.goo.gl/87vvbChMWSQRQmfD6](https://maps.app.goo.gl/87vvbChMWSQRQmfD6)
+Location: [IPOL/IREL building Auditorium](./Locations.html#ipol-irel-building-auditorium-ground-floor)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d977.8728131998791!2d-47.86990003959342!3d-15.75878767252073!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3bb88429f91f%3A0xda3d0fd7856400d3!2sInstituto%20de%20Rela%C3%A7%C3%B5es%20Internacionais!5e0!3m2!1spt-BR!2sbr!4v1707501335863!5m2!1spt-BR!2sbr" width="750" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## <i class="fa-solid fa-microphone-alt" style="color:var(--theme-color)"></i> Keynotes
+
+Location: [IPOL/IREL building Auditorium](./Locations.html#ipol-irel-building-auditorium-ground-floor)
+
+## <i class="fa-solid fa-compass-drafting" style="color:var(--theme-color)"></i> Technical Session
+
+Location: [IPOL/IREL building Auditorium](./Locations.html#ipol-irel-building-auditorium-ground-floor)
 
 ## <i class="fa-solid fa-briefcase" style="color:var(--theme-color)"></i> Working Sessions
 Location: CIC/EST building
 
-- Sala de reunião CIC (first floor)
-- Sala de reunião EST (first floor)
-
-[https://maps.app.goo.gl/FkzG7fBsfjceyKZMA](https://maps.app.goo.gl/FkzG7fBsfjceyKZMA)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d856.7145770299605!2d-47.86974221109377!3d-15.758607280407242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3bb88f71361f%3A0x3933d293e644ad55!2zUHLDqWRpbyBkZSBDacOqbmNpYSBkYSBDb21wdXRhw6fDo28gZSBFc3RhdMOtc3RpY2EgLSBDSUMvRVNU!5e0!3m2!1spt-BR!2sbr!4v1707501432855!5m2!1spt-BR!2sbr" width="750" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## <i class="fa-solid fa-compass-drafting" style="color:var(--theme-color)"></i> Technical Session
-Location: IREL/IPOL building Auditorium (ground floor)
-
-[https://maps.app.goo.gl/87vvbChMWSQRQmfD6](https://maps.app.goo.gl/87vvbChMWSQRQmfD6)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d977.8728131998791!2d-47.86990003959342!3d-15.75878767252073!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3bb88429f91f%3A0xda3d0fd7856400d3!2sInstituto%20de%20Rela%C3%A7%C3%B5es%20Internacionais!5e0!3m2!1spt-BR!2sbr!4v1707501335863!5m2!1spt-BR!2sbr" width="750" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-### Detailed Program
-
-#### Requirements
-  - Mission Specification and Decomposition for Multi-Robots Systems: Caio Peluti (UnB) and Marco Vieira (UnB)
-
-#### Architecture
-  - An Architecture for Mission Coordination of Heterogeneous Robots: Gabriel Siqueira Rodrigues (UnB)
-  
-#### Simulation
-  - Dexpro: Distributed Experiments for Robotics - Vicente Romeiro de Moraes (UnB)
-
-#### Uncertainty
-  - Dealing with uncertainties in drone-based missions - Lucas Vieira Alves (UECE)
-  - Formal Synthesis of Uncertainty Reduction Controllers - Marc Carwehl (Humboldt)
-  - Body Sensor Network: A Self-Adaptive Artefact for the Healthcare Domain - Carlos E. Lotterman (UnB) and Ricardo D. Caldas (Chalmers)
-
-#### Verification
-  - TBD - Florencia Zanollo (UBA)
-  - TBD - Hernán Gagliardi (UBA)
-  - Guidelines for Testing and Verification of ROS-based Robotics Systems in the Field - Ricardo D. Caldas (Chalmers)
-
-#### Explanability
-  - Trace-Diagnostic for Signal Temporal Properties: an Evolutionary Approach - Gabriel Araújo (UnB)
+- [CIC Meeting Room](./Locations.html#cic-meeting-room)
+- [EST Meeting Room](./Locations.html#est-meeting-room)

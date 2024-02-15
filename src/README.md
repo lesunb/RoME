@@ -126,4 +126,4 @@ CIC/EST Building,
 
 </div>
 
-<!-- <div v-html="$InstaFeedComponent"></div> -->
+<!-- <InstaFeedComponent/> -->
