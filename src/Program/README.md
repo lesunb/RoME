@@ -226,7 +226,7 @@ icon: calendar-alt
     <td class="tg-9fnw"></td>
     <td class="horario">10:50h</td>
     <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
-    <i class="palestrantes">TBD - Florencia Zanollo (UBA)</i></td>
+    <i class="palestrantes">On-the-fly informed search of non-blocking directed controllers - Florencia Zanollo (UBA)</i></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
@@ -261,7 +261,7 @@ icon: calendar-alt
   </tr>
     <tr>
     <td class="tg-slju"></td>
-    <td class="horario">15:30h</td>
+    <td class="horario">16:00h</td>
     <td class="descricao">Working Session III at <a href="./Locations.html#cic-est-building">CIC/EST Building</a></td>
   </tr>
   <tr>
