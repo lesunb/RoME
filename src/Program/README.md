@@ -204,7 +204,7 @@ icon: calendar-alt
     <td class="horario">09:20h</td>
     <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Dealing with uncertainties in drone-based missions - Lucas Vieira Alves (UECE)</i><br>
-    <a href="/assets/apresentacoes/Alves.pdf)"><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
+    <a href="/RoME/assets/apresentacoes/Alves.pdf)" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
@@ -222,7 +222,7 @@ icon: calendar-alt
     <td class="horario">10:30h</td>
     <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Guidelines for Testing and Verification of ROS-based Robotics Systems in the Field - Ricardo D. Caldas (Chalmers)</i><br>
-    <a href="/assets/apresentacoes/Caldas.pdf)"><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
+    <a href="/RoME/assets/apresentacoes/Caldas.pdf)" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
@@ -235,14 +235,14 @@ icon: calendar-alt
     <td class="horario">11:10h</td>
     <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Exploiting modular game representation for GR(1) synthesis - Hernán Gagliardi (UBA)</i><br>
-    <a href="/assets/apresentacoes/Gagliardi.pdf)"><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
+    <a href="/RoME/assets/apresentacoes/Gagliardi.pdf)" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">11:30h</td>
     <td class="descricao">Explainability in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Trace-Diagnostic for Signal Temporal Properties: an Evolutionary Approach - Gabriel Araújo (UnB)</i><br>
-    <a href="/assets/apresentacoes/Araujo.pdf)"><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
+    <a href="/RoME/assets/apresentacoes/Araujo.pdf)" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a></td>
   </tr>  
   <tr>
     <td class="tg-qrlx"></td>
