@@ -142,7 +142,7 @@ icon: calendar-alt
     <td class="horario">10:30h</td>
     <td class="descricao">Requirements in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Mission Specification and Decomposition for Multi-Robots Systems: Caio Peluti (UnB) e Marco Vieira (UnB)</i><br>
-    <a href="https://doi.org/10.1016/j.robot.2023.104386" target="_blank">Paper D.O.I: https://doi.org/10.1016/j.robot.2023.104386</a>
+    <a href="https://doi.org/10.1016/j.robot.2023.104386" target="_blank"><i class="ai ai-doi"></i> https://doi.org/10.1016/j.robot.2023.104386</a>
     </td>
   </tr>
     <tr>
@@ -150,7 +150,7 @@ icon: calendar-alt
     <td class="horario">11:00h</td>
     <td class="descricao">Architecture in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">An Architecture for Mission Coordination of Heterogeneous Robots: Gabriel Siqueira Rodrigues (UnB)</i><br>
-    <a href="https://doi.org/10.1016/j.jss.2022.111363" target="_blank">Paper D.O.I: https://doi.org/10.1016/j.jss.2022.111363</a></td>
+    <a href="https://doi.org/10.1016/j.jss.2022.111363" target="_blank"><i class="ai ai-doi"></i> https://doi.org/10.1016/j.jss.2022.111363</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
@@ -201,22 +201,23 @@ icon: calendar-alt
     <td class="horario">09:00h</td>
     <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Formal Synthesis of Uncertainty Reduction Controllers - Marc Carwehl (Humboldt)</i><br>
-    <a href="https://doi.org/10.48550/arXiv.2401.17187" target="_blank">Paper D.O.I: https://doi.org/10.48550/arXiv.2401.17187</a></td>
+    <a href="/RoME/assets/apresentacoes/Carwehl.pdf" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a> - 
+    <a href="https://doi.org/10.48550/arXiv.2401.17187" target="_blank"><i class="ai ai-doi"></i> https://doi.org/10.48550/arXiv.2401.17187</a></td>
   </tr>
   <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">09:20h</td>
     <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Dealing with uncertainties in drone-based missions - Lucas Vieira Alves (UECE)</i><br>
-    <a href="/RoME/assets/apresentacoes/Alves.pdf" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a><br>
-    <a href="https://doi.org/10.1145/3510458.3513012" target="_blank">Paper D.O.I: https://doi.org/10.1145/3510458.3513012</a></td>
+    <a href="/RoME/assets/apresentacoes/Alves.pdf" download><i class="fa-solid fa-file-pdf" style="color:var(--theme-color)"></i> Presentation slide</a> - 
+    <a href="https://doi.org/10.1145/3510458.3513012" target="_blank"><i class="ai ai-doi"></i> https://doi.org/10.1145/3510458.3513012</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
     <td class="horario">09:40h</td>
     <td class="descricao">Uncertainty in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">Body Sensor Network: A Self-Adaptive Artefact for the Healthcare Domain - Carlos E. Lotterman (UnB) and Ricardo D. Caldas (Chalmers)</i><br>
-    <a href="https://doi.org/10.1109/SEAMS51251.2021.00037" target="_blank">Paper D.O.I: https://doi.org/10.1109/SEAMS51251.2021.00037</a></td>
+    <a href="https://doi.org/10.1109/SEAMS51251.2021.00037" target="_blank"><i class="ai ai-doi"></i> https://doi.org/10.1109/SEAMS51251.2021.00037</a></td>
   </tr>
   <tr>
     <td class="tg-qrlx"></td>
@@ -235,7 +236,7 @@ icon: calendar-alt
     <td class="horario">10:50h</td>
     <td class="descricao">Verification in RME at <a href="./Locations.html#ipol-irel-building">IPOL/IREL Building</a><br>
     <i class="palestrantes">On-the-fly informed search of non-blocking directed controllers - Florencia Zanollo (UBA)</i><br>
-    <a href="https://doi.org/10.1016/j.automatica.2022.110731" target="_blank">Paper D.O.I: https://doi.org/10.1016/j.automatica.2022.110731</a></td>
+    <a href="https://doi.org/10.1016/j.automatica.2022.110731" target="_blank"><i class="ai ai-doi"></i> https://doi.org/10.1016/j.automatica.2022.110731</a></td>
   </tr>
     <tr>
     <td class="tg-9fnw"></td>
