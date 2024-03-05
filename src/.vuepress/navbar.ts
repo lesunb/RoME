@@ -8,6 +8,7 @@ export default navbar([
   "/Registration/",
   "/Accommodation/",
   "/Steering/",
+  "/Photos",
   "/Previous/",
   // "InstaFeedComponent.vue",
   // {
